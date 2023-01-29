@@ -38,13 +38,13 @@ button {
   margin-bottom: 10px;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 1080px) {
   body {
     width: 100%;
   }
 
   .logo {
-    max-width: 10%;
+    max-width: 5%;
     margin: 0 auto;
   }
 
