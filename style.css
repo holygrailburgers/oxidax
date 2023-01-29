@@ -24,3 +24,14 @@ button {
 button:hover {
   background-color: darkgreen;
 }
+.buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+button {
+  width: 100%;
+  margin-bottom: 10px;
+}
