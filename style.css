@@ -1,6 +1,6 @@
 @media only screen and (max-width: 600px) {
   .logo {
-    margin-top: 20px;
+    margin-top: 10px;
   }
 
   button {
@@ -14,7 +14,7 @@
 button {
   background-color: red;
   color: white;
-  padding: 10px 20px;
+  padding: 20px 30px;
   border: none;
   cursor: pointer;
   border-radius: 5px;
