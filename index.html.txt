@@ -1,0 +1,13 @@
+<body style="background-color: black;">
+  <div class="logo">
+    <img src="https://i.ibb.co/dDhT7yk/holy-sticker.jpg" alt="Logo">
+  </div>
+  <div class="buttons">
+    <a href="https://holygrailburgers.square.site/">
+      <button>Order for Pickup</button>
+    </a>
+    <a href="https://www.doordash.com/store/holy-grail-burgers-englewood-24540813/">
+      <button>Order for Delivery</button>
+    </a>
+  </div>
+</body>
